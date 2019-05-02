@@ -1,4 +1,4 @@
-KinectController kinectController; //<>//
+KinectController kinectController;
 float mappedX, mappedY;
 
 void settings() {
