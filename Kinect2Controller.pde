@@ -3,7 +3,7 @@ import org.openkinect.processing.*;
 
 Kinect2 kinect2 = new Kinect2(this);
 
-class KinectController extends PApplet {
+class Kinect2Controller extends PApplet {
   float kinMinThresh = 900;
   float kinMaxThresh = 970;
   PImage img;
